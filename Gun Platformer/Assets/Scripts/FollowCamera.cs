@@ -1,0 +1,19 @@
+using UnityEngine;
+
+public class FollowCamera : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        Vector3 pos = transform.position;
+        pos.x = Camera.main.transform.position.x;
+        pos.y = Camera.main.transform.position.y;
+        transform.position = pos;
+    }
+}
