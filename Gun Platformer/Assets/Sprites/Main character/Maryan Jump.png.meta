@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 612365b5f4e1f264ab18911ce0d3f026
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -790683216993385345
+    second: Maryan Jump_0
+  - first:
+      213: 7565604717990531426
+    second: Maryan Jump_1
+  - first:
+      213: 4077428686542511106
+    second: Maryan Jump_2
+  - first:
+      213: 2359321645799016081
+    second: Maryan Jump_3
+  - first:
+      213: 3797131181653425643
+    second: Maryan Jump_4
+  - first:
+      213: 289359493496820142
+    second: Maryan Jump_5
+  - first:
+      213: -8345051007157134237
+    second: Maryan Jump_6
+  - first:
+      213: -5354349970905035172
+    second: Maryan Jump_7
+  - first:
+      213: -1240205256987750100
+    second: Maryan Jump_8
+  - first:
+      213: -4131377234374759899
+    second: Maryan Jump_9
+  - first:
+      213: 6762294982056068143
+    second: Maryan Jump_10
+  - first:
+      213: 7831628612688089369
+    second: Maryan Jump_11
+  - first:
+      213: 5485102316791898893
+    second: Maryan Jump_12
+  - first:
+      213: -126941361526425630
+    second: Maryan Jump_13
+  - first:
+      213: 9073147673514747121
+    second: Maryan Jump_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maryan Jump_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f740f39adcde605f0800000000000000
+      internalID: -790683216993385345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26158de186d6ef860800000000000000
+      internalID: 7565604717990531426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 159
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9a5a89cfe59830800000000000000
+      internalID: 4077428686542511106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 167
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1968db0698efdb020800000000000000
+      internalID: 2359321645799016081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 167
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedf20011be12b430800000000000000
+      internalID: 3797131181653425643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 167
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1d34e1de2040400800000000000000
+      internalID: 289359493496820142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 167
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c12eda25c603c80800000000000000
+      internalID: -8345051007157134237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 169
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e051de11781b5b0800000000000000
+      internalID: -5354349970905035172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 52
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c215ca0c3e7e9cee0800000000000000
+      internalID: -1240205256987750100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 71
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ae4f75b466aa6c0800000000000000
+      internalID: -4131377234374759899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24cbdf357f78dd50800000000000000
+      internalID: 6762294982056068143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 71
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9111f00cab88fac60800000000000000
+      internalID: 7831628612688089369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 71
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ad0dee7ffe1c40800000000000000
+      internalID: 5485102316791898893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 71
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b9e611830d3ef0800000000000000
+      internalID: -126941361526425630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan Jump_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 71
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4228accbb4aed70800000000000000
+      internalID: 9073147673514747121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maryan Jump_0: -790683216993385345
+      Maryan Jump_1: 7565604717990531426
+      Maryan Jump_10: 6762294982056068143
+      Maryan Jump_11: 7831628612688089369
+      Maryan Jump_12: 5485102316791898893
+      Maryan Jump_13: -126941361526425630
+      Maryan Jump_14: 9073147673514747121
+      Maryan Jump_2: 4077428686542511106
+      Maryan Jump_3: 2359321645799016081
+      Maryan Jump_4: 3797131181653425643
+      Maryan Jump_5: 289359493496820142
+      Maryan Jump_6: -8345051007157134237
+      Maryan Jump_7: -5354349970905035172
+      Maryan Jump_8: -1240205256987750100
+      Maryan Jump_9: -4131377234374759899
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

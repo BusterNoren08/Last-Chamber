@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 128c095aa6e99ad4281eccf53c33ae17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1504093151426735450
+    second: Maryan final run sprite sheet kopiera_0
+  - first:
+      213: -547895922089633396
+    second: Maryan final run sprite sheet kopiera_1
+  - first:
+      213: 7590747254239353334
+    second: Maryan final run sprite sheet kopiera_2
+  - first:
+      213: -7978298275815054720
+    second: Maryan final run sprite sheet kopiera_3
+  - first:
+      213: -4703721324251005555
+    second: Maryan final run sprite sheet kopiera_4
+  - first:
+      213: -2433247390225295741
+    second: Maryan final run sprite sheet kopiera_5
+  - first:
+      213: -1169614556811449190
+    second: Maryan final run sprite sheet kopiera_6
+  - first:
+      213: -6883491024509789867
+    second: Maryan final run sprite sheet kopiera_7
+  - first:
+      213: 3816471024261828951
+    second: Maryan final run sprite sheet kopiera_8
+  - first:
+      213: 6467170564923097509
+    second: Maryan final run sprite sheet kopiera_9
+  - first:
+      213: -200429514793111687
+    second: Maryan final run sprite sheet kopiera_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 158
+        width: 57
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a29c107f33602be0800000000000000
+      internalID: -1504093151426735450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8956fdcf8b7568f0800000000000000
+      internalID: -547895922089633396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 159
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f955b40960c75960800000000000000
+      internalID: 7590747254239353334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 159
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082aeed2df3674190800000000000000
+      internalID: -7978298275815054720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 159
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8db691806609beb0800000000000000
+      internalID: -4703721324251005555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 165
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38699f6f36e5b3ed0800000000000000
+      internalID: -2433247390225295741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 159
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ca029e1c1b4cfe0800000000000000
+      internalID: -1169614556811449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 159
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559118d226de870a0800000000000000
+      internalID: -6883491024509789867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75192b01d24d6f430800000000000000
+      internalID: 3816471024261828951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18a104d5100c950800000000000000
+      internalID: 6467170564923097509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa0401b6ee73df0800000000000000
+      internalID: -200429514793111687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maryan final run sprite sheet kopiera_0: -1504093151426735450
+      Maryan final run sprite sheet kopiera_1: -547895922089633396
+      Maryan final run sprite sheet kopiera_10: -200429514793111687
+      Maryan final run sprite sheet kopiera_2: 7590747254239353334
+      Maryan final run sprite sheet kopiera_3: -7978298275815054720
+      Maryan final run sprite sheet kopiera_4: -4703721324251005555
+      Maryan final run sprite sheet kopiera_5: -2433247390225295741
+      Maryan final run sprite sheet kopiera_6: -1169614556811449190
+      Maryan final run sprite sheet kopiera_7: -6883491024509789867
+      Maryan final run sprite sheet kopiera_8: 3816471024261828951
+      Maryan final run sprite sheet kopiera_9: 6467170564923097509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
