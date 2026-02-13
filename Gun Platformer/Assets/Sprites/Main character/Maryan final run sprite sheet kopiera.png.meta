@@ -1,31 +1,40 @@
 fileFormatVersion: 2
-guid: 4364983deaee5204fb9efd8188c5cbf3
+guid: 128c095aa6e99ad4281eccf53c33ae17
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7761956094678012452
-    second: death human enemy 160x160_0
+      213: -1504093151426735450
+    second: Maryan final run sprite sheet kopiera_0
   - first:
-      213: 1346130013919360098
-    second: death human enemy 160x160_1
+      213: -547895922089633396
+    second: Maryan final run sprite sheet kopiera_1
   - first:
-      213: -8847407057924816301
-    second: death human enemy 160x160_2
+      213: 7590747254239353334
+    second: Maryan final run sprite sheet kopiera_2
   - first:
-      213: -3895356311267574515
-    second: death human enemy 160x160_3
+      213: -7978298275815054720
+    second: Maryan final run sprite sheet kopiera_3
   - first:
-      213: -3933019216718877978
-    second: death human enemy 160x160_4
+      213: -4703721324251005555
+    second: Maryan final run sprite sheet kopiera_4
   - first:
-      213: 4625443955693721015
-    second: death human enemy 160x160_5
+      213: -2433247390225295741
+    second: Maryan final run sprite sheet kopiera_5
   - first:
-      213: -2664896368356834528
-    second: death human enemy 160x160_6
+      213: -1169614556811449190
+    second: Maryan final run sprite sheet kopiera_6
   - first:
-      213: 4287476853571539043
-    second: death human enemy 160x160_7
+      213: -6883491024509789867
+    second: Maryan final run sprite sheet kopiera_7
+  - first:
+      213: 3816471024261828951
+    second: Maryan final run sprite sheet kopiera_8
+  - first:
+      213: 6467170564923097509
+    second: Maryan final run sprite sheet kopiera_9
+  - first:
+      213: -200429514793111687
+    second: Maryan final run sprite sheet kopiera_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: death human enemy 160x160_0
+      name: Maryan final run sprite sheet kopiera_0
       rect:
         serializedVersion: 2
-        x: 13
-        y: 351
-        width: 141
-        height: 144
+        x: 1
+        y: 158
+        width: 57
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 422167981f108bb60800000000000000
-      internalID: 7761956094678012452
+      spriteID: 6a29c107f33602be0800000000000000
+      internalID: -1504093151426735450
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_1
+      name: Maryan final run sprite sheet kopiera_1
       rect:
         serializedVersion: 2
-        x: 173
-        y: 351
-        width: 131
-        height: 137
+        x: 73
+        y: 159
+        width: 48
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +167,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 264b7259d1a6ea210800000000000000
-      internalID: 1346130013919360098
+      spriteID: c8956fdcf8b7568f0800000000000000
+      internalID: -547895922089633396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_2
+      name: Maryan final run sprite sheet kopiera_2
       rect:
         serializedVersion: 2
-        x: 335
-        y: 351
-        width: 132
-        height: 135
+        x: 137
+        y: 159
+        width: 46
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3528b190822b73580800000000000000
-      internalID: -8847407057924816301
+      spriteID: 6f955b40960c75960800000000000000
+      internalID: 7590747254239353334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_3
+      name: Maryan final run sprite sheet kopiera_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 191
-        width: 132
-        height: 131
+        x: 199
+        y: 159
+        width: 49
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0df159c21ae0f9c0800000000000000
-      internalID: -3895356311267574515
+      spriteID: 082aeed2df3674190800000000000000
+      internalID: -7978298275815054720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_4
+      name: Maryan final run sprite sheet kopiera_4
       rect:
         serializedVersion: 2
-        x: 175
-        y: 191
-        width: 132
-        height: 131
+        x: 260
+        y: 159
+        width: 50
+        height: 86
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +233,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6eaafa44cdb1b69c0800000000000000
-      internalID: -3933019216718877978
+      spriteID: d8db691806609beb0800000000000000
+      internalID: -4703721324251005555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_5
+      name: Maryan final run sprite sheet kopiera_5
       rect:
         serializedVersion: 2
-        x: 335
-        y: 189
-        width: 132
-        height: 132
+        x: 321
+        y: 165
+        width: 63
+        height: 78
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b51a9365c0e03040800000000000000
-      internalID: 4625443955693721015
+      spriteID: 38699f6f36e5b3ed0800000000000000
+      internalID: -2433247390225295741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_6
+      name: Maryan final run sprite sheet kopiera_6
       rect:
         serializedVersion: 2
-        x: 15
-        y: 29
-        width: 132
-        height: 132
+        x: 385
+        y: 159
+        width: 54
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 023ccd84fd2640bd0800000000000000
-      internalID: -2664896368356834528
+      spriteID: a9ca029e1c1b4cfe0800000000000000
+      internalID: -1169614556811449190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: death human enemy 160x160_7
+      name: Maryan final run sprite sheet kopiera_7
       rect:
         serializedVersion: 2
-        x: 175
-        y: 29
-        width: 132
-        height: 132
+        x: 459
+        y: 159
+        width: 46
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,8 +299,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36057d77b7d208b30800000000000000
-      internalID: 4287476853571539043
+      spriteID: 559118d226de870a0800000000000000
+      internalID: -6883491024509789867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75192b01d24d6f430800000000000000
+      internalID: 3816471024261828951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 63
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a18a104d5100c950800000000000000
+      internalID: 6467170564923097509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maryan final run sprite sheet kopiera_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 69
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa0401b6ee73df0800000000000000
+      internalID: -200429514793111687
       vertices: []
       indices: 
       edges: []
@@ -310,14 +385,17 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      death human enemy 160x160_0: 7761956094678012452
-      death human enemy 160x160_1: 1346130013919360098
-      death human enemy 160x160_2: -8847407057924816301
-      death human enemy 160x160_3: -3895356311267574515
-      death human enemy 160x160_4: -3933019216718877978
-      death human enemy 160x160_5: 4625443955693721015
-      death human enemy 160x160_6: -2664896368356834528
-      death human enemy 160x160_7: 4287476853571539043
+      Maryan final run sprite sheet kopiera_0: -1504093151426735450
+      Maryan final run sprite sheet kopiera_1: -547895922089633396
+      Maryan final run sprite sheet kopiera_10: -200429514793111687
+      Maryan final run sprite sheet kopiera_2: 7590747254239353334
+      Maryan final run sprite sheet kopiera_3: -7978298275815054720
+      Maryan final run sprite sheet kopiera_4: -4703721324251005555
+      Maryan final run sprite sheet kopiera_5: -2433247390225295741
+      Maryan final run sprite sheet kopiera_6: -1169614556811449190
+      Maryan final run sprite sheet kopiera_7: -6883491024509789867
+      Maryan final run sprite sheet kopiera_8: 3816471024261828951
+      Maryan final run sprite sheet kopiera_9: 6467170564923097509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

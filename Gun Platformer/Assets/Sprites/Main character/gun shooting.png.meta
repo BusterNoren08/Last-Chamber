@@ -1,19 +1,28 @@
 fileFormatVersion: 2
-guid: e065d648e06b7bd4b9d06eeeeb8b1dfa
+guid: afdc71ba3219373409a9ba183146cd60
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3494262336433507432
-    second: Bug enemy flying 64x64_0
+      213: 7581263091231718214
+    second: gun shooting_0
   - first:
-      213: -4968212475036428355
-    second: Bug enemy flying 64x64_1
+      213: 4264930848305145341
+    second: gun shooting_1
   - first:
-      213: -3427803111373183989
-    second: Bug enemy flying 64x64_2
+      213: -3460860862268734063
+    second: gun shooting_2
   - first:
-      213: 6256558232547101731
-    second: Bug enemy flying 64x64_3
+      213: -6638403393322941992
+    second: gun shooting_3
+  - first:
+      213: -2522498416515307687
+    second: gun shooting_4
+  - first:
+      213: 4386456643077004088
+    second: gun shooting_5
+  - first:
+      213: -732599045306514764
+    second: gun shooting_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bug enemy flying 64x64_0
+      name: gun shooting_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 72
-        width: 60
-        height: 47
+        x: 21
+        y: 191
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 893badc1be2e18fc0800000000000000
-      internalID: -3494262336433507432
+      spriteID: 64b75ad3d9e063960800000000000000
+      internalID: 7581263091231718214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bug enemy flying 64x64_1
+      name: gun shooting_1
       rect:
         serializedVersion: 2
-        x: 62
-        y: 74
-        width: 66
-        height: 41
+        x: 117
+        y: 191
+        width: 71
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db71ac0a31d5d0bb0800000000000000
-      internalID: -4968212475036428355
+      spriteID: df565dc8204103b30800000000000000
+      internalID: 4264930848305145341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bug enemy flying 64x64_2
+      name: gun shooting_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 11
-        width: 62
-        height: 40
+        x: 213
+        y: 191
+        width: 81
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b046f924b3ffd60d0800000000000000
-      internalID: -3427803111373183989
+      spriteID: 1958b67d16d88ffc0800000000000000
+      internalID: -3460860862268734063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bug enemy flying 64x64_3
+      name: gun shooting_3
       rect:
         serializedVersion: 2
-        x: 62
-        y: 9
-        width: 66
-        height: 41
+        x: 309
+        y: 191
+        width: 67
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +199,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32c04875092c3d650800000000000000
-      internalID: 6256558232547101731
+      spriteID: 8d10d391947afd3a0800000000000000
+      internalID: -6638403393322941992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun shooting_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 191
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ae111e094efcd0800000000000000
+      internalID: -2522498416515307687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun shooting_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bd1419313dfdc30800000000000000
+      internalID: 4386456643077004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun shooting_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b207bdbc0945d5f0800000000000000
+      internalID: -732599045306514764
       vertices: []
       indices: 
       edges: []
@@ -210,10 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Bug enemy flying 64x64_0: -3494262336433507432
-      Bug enemy flying 64x64_1: -4968212475036428355
-      Bug enemy flying 64x64_2: -3427803111373183989
-      Bug enemy flying 64x64_3: 6256558232547101731
+      gun shooting_0: 7581263091231718214
+      gun shooting_1: 4264930848305145341
+      gun shooting_2: -3460860862268734063
+      gun shooting_3: -6638403393322941992
+      gun shooting_4: -2522498416515307687
+      gun shooting_5: 4386456643077004088
+      gun shooting_6: -732599045306514764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
