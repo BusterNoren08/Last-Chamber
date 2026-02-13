@@ -202,3 +202,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletScript
   lifetime: 2
+  damage: 2

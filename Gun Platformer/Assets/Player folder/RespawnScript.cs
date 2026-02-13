@@ -1,15 +1,29 @@
+using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement; // Needed for scene management
+using UnityEngine.SceneManagement;
 
 public class RestartScene : MonoBehaviour
 {
+    public TextMeshProUGUI text;
+    
+
+    private void Start()
+    {
+        
+    }
+
     void Update()
     {
-        // Check if the R key is pressed
         if (Input.GetKeyDown(KeyCode.R))
         {
-            // Reload the current active scene
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            text.enabled = false;
+            Time.timeScale = 1;
+
+            //// Get the saved respawn scene from GameManager
+            //int respawnScene = GameManager.instance.GetRespawnScene();
+            Debug.Log("Reload");
+
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }

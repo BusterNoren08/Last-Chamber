@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: f16438a162600fe48b5450335718750b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7230194405720244714
+    second: human enemy idle 160x160_0
+  - first:
+      213: -2915175371641657515
+    second: human enemy idle 160x160_1
+  - first:
+      213: -7913195881244239596
+    second: human enemy idle 160x160_2
+  - first:
+      213: 968760614939067216
+    second: human enemy idle 160x160_3
+  - first:
+      213: 2877984492567356712
+    second: human enemy idle 160x160_4
+  - first:
+      213: 3682100273779779879
+    second: human enemy idle 160x160_5
+  - first:
+      213: 2521225865771250551
+    second: human enemy idle 160x160_6
+  - first:
+      213: 6871439185524867595
+    second: human enemy idle 160x160_7
+  - first:
+      213: -6191559562774383858
+    second: human enemy idle 160x160_8
+  - first:
+      213: 7793002827991893589
+    second: human enemy idle 160x160_9
+  - first:
+      213: -9218600278999248971
+    second: human enemy idle 160x160_10
+  - first:
+      213: -2354298581597108619
+    second: human enemy idle 160x160_11
+  - first:
+      213: -7595728222629995271
+    second: human enemy idle 160x160_12
+  - first:
+      213: -2484469656782412606
+    second: human enemy idle 160x160_13
+  - first:
+      213: 4513377571284408207
+    second: human enemy idle 160x160_14
+  - first:
+      213: -4096078400041825105
+    second: human enemy idle 160x160_15
+  - first:
+      213: -7475050208800170523
+    second: human enemy idle 160x160_16
+  - first:
+      213: -693247408284825630
+    second: human enemy idle 160x160_17
+  - first:
+      213: 8548854289729806700
+    second: human enemy idle 160x160_18
+  - first:
+      213: 6191052957004503051
+    second: human enemy idle 160x160_19
+  - first:
+      213: -7607392291633453966
+    second: human enemy idle 160x160_20
+  - first:
+      213: 7272840963929946221
+    second: human enemy idle 160x160_21
+  - first:
+      213: 7870386484188974796
+    second: human enemy idle 160x160_22
+  - first:
+      213: 8127483868049202335
+    second: human enemy idle 160x160_23
+  - first:
+      213: 2518398786962712911
+    second: human enemy idle 160x160_24
+  - first:
+      213: -1431855061975332983
+    second: human enemy idle 160x160_25
+  - first:
+      213: -5402363018198453010
+    second: human enemy idle 160x160_26
+  - first:
+      213: -7446623434295965964
+    second: human enemy idle 160x160_27
+  - first:
+      213: 6619204605883496788
+    second: human enemy idle 160x160_28
+  - first:
+      213: -7890869631344679760
+    second: human enemy idle 160x160_29
+  - first:
+      213: 2570890228260674301
+    second: human enemy idle 160x160_30
+  - first:
+      213: -1042388926014789571
+    second: human enemy idle 160x160_31
+  - first:
+      213: 4145844160477076541
+    second: human enemy idle 160x160_32
+  - first:
+      213: 5398735271944991200
+    second: human enemy idle 160x160_33
+  - first:
+      213: -2871235661780528072
+    second: human enemy idle 160x160_34
+  - first:
+      213: 4327106512611043038
+    second: human enemy idle 160x160_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: human enemy idle 160x160_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 863
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c8f9318fc65460800000000000000
+      internalID: 7230194405720244714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 863
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557e45bd1773b87d0800000000000000
+      internalID: -2915175371641657515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 863
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195a5c954eae2290800000000000000
+      internalID: -7913195881244239596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 863
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305d585aab17d00800000000000000
+      internalID: 968760614939067216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 863
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8256f84d5a7a0f720800000000000000
+      internalID: 2877984492567356712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 858
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729230eb0b2791330800000000000000
+      internalID: 3682100273779779879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 863
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77372df11913df220800000000000000
+      internalID: 2521225865771250551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_7
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 858
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02c8e468814c5f50800000000000000
+      internalID: 6871439185524867595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 703
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f827c169231aa0800000000000000
+      internalID: -6191559562774383858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 843
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556421078ce462c60800000000000000
+      internalID: 7793002827991893589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 841
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcee373e3f01080800000000000000
+      internalID: -9218600278999248971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 843
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c2b4e9e9d35fd0800000000000000
+      internalID: -2354298581597108619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 841
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcdab7ec6d869690800000000000000
+      internalID: -7595728222629995271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c46f3ca204658dd0800000000000000
+      internalID: -2484469656782412606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_14
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 849
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f875f99fcfcb2ae30800000000000000
+      internalID: 4513377571284408207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 851
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac4b59a56ec727c0800000000000000
+      internalID: -4096078400041825105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_16
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 847
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed914a8079434890800000000000000
+      internalID: -7475050208800170523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_17
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 850
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e709b7b7271166f0800000000000000
+      internalID: -693247408284825630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 703
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616be7cea1a3a670800000000000000
+      internalID: 8548854289729806700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 698
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0892efdcd90be550800000000000000
+      internalID: 6191052957004503051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 703
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a426340d1d6690800000000000000
+      internalID: -7607392291633453966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 703
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6834f2d2525ee460800000000000000
+      internalID: 7272840963929946221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_22
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 703
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce8e1beeca393d60800000000000000
+      internalID: 7870386484188974796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 703
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5ac8448f9ac070800000000000000
+      internalID: 8127483868049202335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 689
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49efab8a5623f220800000000000000
+      internalID: 2518398786962712911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 691
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9878d1d4867012ce0800000000000000
+      internalID: -1431855061975332983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 687
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f2983573f605b0800000000000000
+      internalID: -5402363018198453010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 690
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f680beb07748a890800000000000000
+      internalID: -7446623434295965964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 543
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459b05dd4832cdb50800000000000000
+      internalID: 6619204605883496788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 543
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b468ceb0effd7290800000000000000
+      internalID: -7890869631344679760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_30
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 543
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa100c9a03ada320800000000000000
+      internalID: 2570890228260674301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 543
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38661b6bc0b881f0800000000000000
+      internalID: -1042388926014789571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_32
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 543
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c1d5f5c4ff88930800000000000000
+      internalID: 4145844160477076541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_33
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 543
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e137a840292cea40800000000000000
+      internalID: 5398735271944991200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 383
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8345329c0625728d0800000000000000
+      internalID: -2871235661780528072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy idle 160x160_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 383
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6e57d7278fc0c30800000000000000
+      internalID: 4327106512611043038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      human enemy idle 160x160_0: 7230194405720244714
+      human enemy idle 160x160_1: -2915175371641657515
+      human enemy idle 160x160_10: -9218600278999248971
+      human enemy idle 160x160_11: -2354298581597108619
+      human enemy idle 160x160_12: -7595728222629995271
+      human enemy idle 160x160_13: -2484469656782412606
+      human enemy idle 160x160_14: 4513377571284408207
+      human enemy idle 160x160_15: -4096078400041825105
+      human enemy idle 160x160_16: -7475050208800170523
+      human enemy idle 160x160_17: -693247408284825630
+      human enemy idle 160x160_18: 8548854289729806700
+      human enemy idle 160x160_19: 6191052957004503051
+      human enemy idle 160x160_2: -7913195881244239596
+      human enemy idle 160x160_20: -7607392291633453966
+      human enemy idle 160x160_21: 7272840963929946221
+      human enemy idle 160x160_22: 7870386484188974796
+      human enemy idle 160x160_23: 8127483868049202335
+      human enemy idle 160x160_24: 2518398786962712911
+      human enemy idle 160x160_25: -1431855061975332983
+      human enemy idle 160x160_26: -5402363018198453010
+      human enemy idle 160x160_27: -7446623434295965964
+      human enemy idle 160x160_28: 6619204605883496788
+      human enemy idle 160x160_29: -7890869631344679760
+      human enemy idle 160x160_3: 968760614939067216
+      human enemy idle 160x160_30: 2570890228260674301
+      human enemy idle 160x160_31: -1042388926014789571
+      human enemy idle 160x160_32: 4145844160477076541
+      human enemy idle 160x160_33: 5398735271944991200
+      human enemy idle 160x160_34: -2871235661780528072
+      human enemy idle 160x160_35: 4327106512611043038
+      human enemy idle 160x160_4: 2877984492567356712
+      human enemy idle 160x160_5: 3682100273779779879
+      human enemy idle 160x160_6: 2521225865771250551
+      human enemy idle 160x160_7: 6871439185524867595
+      human enemy idle 160x160_8: -6191559562774383858
+      human enemy idle 160x160_9: 7793002827991893589
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

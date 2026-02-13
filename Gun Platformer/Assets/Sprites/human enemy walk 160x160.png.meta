@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f186bc25e2a3bc147b8b520286bf372d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8462106195160121355
+    second: human enemy walk 160x160_0
+  - first:
+      213: 225851843286612931
+    second: human enemy walk 160x160_1
+  - first:
+      213: -2183032395656003591
+    second: human enemy walk 160x160_2
+  - first:
+      213: 2925949075959225202
+    second: human enemy walk 160x160_3
+  - first:
+      213: 1195606712198659004
+    second: human enemy walk 160x160_4
+  - first:
+      213: 4031640617208414996
+    second: human enemy walk 160x160_5
+  - first:
+      213: -7671160008395149306
+    second: human enemy walk 160x160_6
+  - first:
+      213: -3611468820009366931
+    second: human enemy walk 160x160_7
+  - first:
+      213: -4977286697579373630
+    second: human enemy walk 160x160_8
+  - first:
+      213: -7650195588291076028
+    second: human enemy walk 160x160_9
+  - first:
+      213: -6382624362610300416
+    second: human enemy walk 160x160_10
+  - first:
+      213: 6631745764113838300
+    second: human enemy walk 160x160_11
+  - first:
+      213: -7735285734313366737
+    second: human enemy walk 160x160_12
+  - first:
+      213: -3233919565752165050
+    second: human enemy walk 160x160_13
+  - first:
+      213: -2754791464818841742
+    second: human enemy walk 160x160_14
+  - first:
+      213: -2752496367397071353
+    second: human enemy walk 160x160_15
+  - first:
+      213: 5589780522326553619
+    second: human enemy walk 160x160_16
+  - first:
+      213: -9159028056865380206
+    second: human enemy walk 160x160_17
+  - first:
+      213: 1512680624120712779
+    second: human enemy walk 160x160_18
+  - first:
+      213: 4140631589298230632
+    second: human enemy walk 160x160_19
+  - first:
+      213: 288356374019726926
+    second: human enemy walk 160x160_20
+  - first:
+      213: -311400046482165264
+    second: human enemy walk 160x160_21
+  - first:
+      213: 4500335774012785448
+    second: human enemy walk 160x160_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: human enemy walk 160x160_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 350
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff39d9ef3f809a80800000000000000
+      internalID: -8462106195160121355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 350
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb37fa0e03622300800000000000000
+      internalID: 225851843286612931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 351
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff0c33a9f44b1e0800000000000000
+      internalID: -2183032395656003591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 351
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b9e67ae2f0b9820800000000000000
+      internalID: 2925949075959225202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 351
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb7cab58f5a79010800000000000000
+      internalID: 1195606712198659004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 351
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4138eb2e7c343f730800000000000000
+      internalID: 4031640617208414996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 191
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600bc6cad909a8590800000000000000
+      internalID: -7671160008395149306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 191
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a41f91e3c71edc0800000000000000
+      internalID: -3611468820009366931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_8
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb118d8e102deab0800000000000000
+      internalID: -4977286697579373630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 326
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44066a915ab05d590800000000000000
+      internalID: -7650195588291076028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_10
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 191
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aebd375fc5c67a0800000000000000
+      internalID: -6382624362610300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 328
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f4bec2a1b80c50800000000000000
+      internalID: 6631745764113838300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_12
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bea12ab9eb6a490800000000000000
+      internalID: -7735285734313366737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 326
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d182bf94fce13d0800000000000000
+      internalID: -3233919565752165050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_14
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 329
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277e13d12c305c9d0800000000000000
+      internalID: -2754791464818841742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_15
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 191
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7069ebf132b2dc9d0800000000000000
+      internalID: -2752496367397071353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_16
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 328
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fba5e4c3e29d40800000000000000
+      internalID: 5589780522326553619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298e3b6428894e080800000000000000
+      internalID: -9159028056865380206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_18
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 191
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ec45b530f1ef410800000000000000
+      internalID: 1512680624120712779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 31
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865d1e11e7a767930800000000000000
+      internalID: 4140631589298230632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 31
+        width: 141
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e5a2a2892700400800000000000000
+      internalID: 288356374019726926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_21
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 31
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f36ebe4fadabf0800000000000000
+      internalID: -311400046482165264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: human enemy walk 160x160_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 31
+        width: 141
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c30cea87647e30800000000000000
+      internalID: 4500335774012785448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      human enemy walk 160x160_0: -8462106195160121355
+      human enemy walk 160x160_1: 225851843286612931
+      human enemy walk 160x160_10: -6382624362610300416
+      human enemy walk 160x160_11: 6631745764113838300
+      human enemy walk 160x160_12: -7735285734313366737
+      human enemy walk 160x160_13: -3233919565752165050
+      human enemy walk 160x160_14: -2754791464818841742
+      human enemy walk 160x160_15: -2752496367397071353
+      human enemy walk 160x160_16: 5589780522326553619
+      human enemy walk 160x160_17: -9159028056865380206
+      human enemy walk 160x160_18: 1512680624120712779
+      human enemy walk 160x160_19: 4140631589298230632
+      human enemy walk 160x160_2: -2183032395656003591
+      human enemy walk 160x160_20: 288356374019726926
+      human enemy walk 160x160_21: -311400046482165264
+      human enemy walk 160x160_22: 4500335774012785448
+      human enemy walk 160x160_3: 2925949075959225202
+      human enemy walk 160x160_4: 1195606712198659004
+      human enemy walk 160x160_5: 4031640617208414996
+      human enemy walk 160x160_6: -7671160008395149306
+      human enemy walk 160x160_7: -3611468820009366931
+      human enemy walk 160x160_8: -4977286697579373630
+      human enemy walk 160x160_9: -7650195588291076028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
