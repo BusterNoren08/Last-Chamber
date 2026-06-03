@@ -1,25 +1,28 @@
 fileFormatVersion: 2
-guid: c0019d9ef9600ce45b45f7d63d565884
+guid: 6124face991a54841b00da8dbd5f378b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7774596338930453404
-    second: Human enemy shooting 160x160_0
+      213: 2853566114444752598
+    second: ammo_0
   - first:
-      213: 4202961027937977060
-    second: Human enemy shooting 160x160_1
+      213: -6741822026156145403
+    second: ammo_1
   - first:
-      213: -6587728583922207296
-    second: Human enemy shooting 160x160_2
+      213: -6058229231348979346
+    second: ammo_2
   - first:
-      213: 8312975297905551863
-    second: Human enemy shooting 160x160_3
+      213: -1887406100666834301
+    second: ammo_3
   - first:
-      213: 5090682060526145557
-    second: Human enemy shooting 160x160_4
+      213: -6089983605151344639
+    second: ammo_4
   - first:
-      213: 8554618288256469141
-    second: Human enemy shooting 160x160_5
+      213: -2751462336349532636
+    second: ammo_5
+  - first:
+      213: 3482018132300699491
+    second: ammo_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_0
+      name: ammo_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 349
-        width: 147
-        height: 144
+        x: 2
+        y: 67
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4647ff142d51b1490800000000000000
-      internalID: -7774596338930453404
+      spriteID: 6d632922347e99720800000000000000
+      internalID: 2853566114444752598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_1
+      name: ammo_1
       rect:
         serializedVersion: 2
-        x: 170
-        y: 349
-        width: 150
-        height: 144
+        x: 66
+        y: 67
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e2cd0369cae35a30800000000000000
-      internalID: 4202961027937977060
+      spriteID: 5050f00469c3072a0800000000000000
+      internalID: -6741822026156145403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_2
+      name: ammo_2
       rect:
         serializedVersion: 2
-        x: 330
-        y: 349
-        width: 149
-        height: 144
+        x: 130
+        y: 67
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c531a691cfa394a0800000000000000
-      internalID: -6587728583922207296
+      spriteID: e696e89ac98dceba0800000000000000
+      internalID: -6058229231348979346
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_3
+      name: ammo_3
       rect:
         serializedVersion: 2
-        x: 11
-        y: 189
-        width: 141
-        height: 144
+        x: 194
+        y: 67
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f9e14a4dfe9d5370800000000000000
-      internalID: 8312975297905551863
+      spriteID: 38229deb6269ec5e0800000000000000
+      internalID: -1887406100666834301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_4
+      name: ammo_4
       rect:
         serializedVersion: 2
-        x: 171
-        y: 189
-        width: 141
-        height: 144
+        x: 2
+        y: 3
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5105d1acc5cb5a640800000000000000
-      internalID: 5090682060526145557
+      spriteID: 108500f5d280c7ba0800000000000000
+      internalID: -6089983605151344639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_5
+      name: ammo_5
       rect:
         serializedVersion: 2
-        x: 331
-        y: 189
-        width: 141
-        height: 144
+        x: 66
+        y: 3
+        width: 59
+        height: 59
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +243,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5984694420c18b670800000000000000
-      internalID: 8554618288256469141
+      spriteID: 42e050d3597d0d9d0800000000000000
+      internalID: -2751462336349532636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ammo_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3679045fa0d925030800000000000000
+      internalID: 3482018132300699491
       vertices: []
       indices: 
       edges: []
@@ -260,12 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Human enemy shooting 160x160_0: -7774596338930453404
-      Human enemy shooting 160x160_1: 4202961027937977060
-      Human enemy shooting 160x160_2: -6587728583922207296
-      Human enemy shooting 160x160_3: 8312975297905551863
-      Human enemy shooting 160x160_4: 5090682060526145557
-      Human enemy shooting 160x160_5: 8554618288256469141
+      ammo_0: 2853566114444752598
+      ammo_1: -6741822026156145403
+      ammo_2: -6058229231348979346
+      ammo_3: -1887406100666834301
+      ammo_4: -6089983605151344639
+      ammo_5: -2751462336349532636
+      ammo_6: 3482018132300699491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

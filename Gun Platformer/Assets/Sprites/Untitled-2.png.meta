@@ -1,25 +1,22 @@
 fileFormatVersion: 2
-guid: c0019d9ef9600ce45b45f7d63d565884
+guid: 5cbaff586a045d24dabfe496234e80f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7774596338930453404
-    second: Human enemy shooting 160x160_0
+      213: -5392625257635239999
+    second: Untitled-2_0
   - first:
-      213: 4202961027937977060
-    second: Human enemy shooting 160x160_1
+      213: -4548455104902304520
+    second: Untitled-2_1
   - first:
-      213: -6587728583922207296
-    second: Human enemy shooting 160x160_2
+      213: -340510569268801026
+    second: Untitled-2_2
   - first:
-      213: 8312975297905551863
-    second: Human enemy shooting 160x160_3
+      213: 33363725635070822
+    second: Untitled-2_3
   - first:
-      213: 5090682060526145557
-    second: Human enemy shooting 160x160_4
-  - first:
-      213: 8554618288256469141
-    second: Human enemy shooting 160x160_5
+      213: 2607614108378703750
+    second: Untitled-2_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_0
+      name: Untitled-2_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 349
-        width: 147
-        height: 144
+        x: 3
+        y: 32
+        width: 9
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4647ff142d51b1490800000000000000
-      internalID: -7774596338930453404
+      spriteID: 1c72ad746eb8925b0800000000000000
+      internalID: -5392625257635239999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_1
+      name: Untitled-2_1
       rect:
         serializedVersion: 2
-        x: 170
-        y: 349
-        width: 150
-        height: 144
+        x: 19
+        y: 35
+        width: 9
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e2cd0369cae35a30800000000000000
-      internalID: 4202961027937977060
+      spriteID: 8fc6c7b4e24a0e0c0800000000000000
+      internalID: -4548455104902304520
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_2
+      name: Untitled-2_2
       rect:
         serializedVersion: 2
-        x: 330
-        y: 349
-        width: 149
-        height: 144
+        x: 35
+        y: 38
+        width: 9
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c531a691cfa394a0800000000000000
-      internalID: -6587728583922207296
+      spriteID: ef1977cf073464bf0800000000000000
+      internalID: -340510569268801026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_3
+      name: Untitled-2_3
       rect:
         serializedVersion: 2
-        x: 11
-        y: 189
-        width: 141
-        height: 144
+        x: 51
+        y: 35
+        width: 9
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f9e14a4dfe9d5370800000000000000
-      internalID: 8312975297905551863
+      spriteID: 66bacd6b128867000800000000000000
+      internalID: 33363725635070822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_4
+      name: Untitled-2_4
       rect:
         serializedVersion: 2
-        x: 171
-        y: 189
-        width: 141
-        height: 144
+        x: 3
+        y: 0
+        width: 9
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,30 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5105d1acc5cb5a640800000000000000
-      internalID: 5090682060526145557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Human enemy shooting 160x160_5
-      rect:
-        serializedVersion: 2
-        x: 331
-        y: 189
-        width: 141
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5984694420c18b670800000000000000
-      internalID: 8554618288256469141
+      spriteID: 687a531473b103420800000000000000
+      internalID: 2607614108378703750
       vertices: []
       indices: 
       edges: []
@@ -260,12 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Human enemy shooting 160x160_0: -7774596338930453404
-      Human enemy shooting 160x160_1: 4202961027937977060
-      Human enemy shooting 160x160_2: -6587728583922207296
-      Human enemy shooting 160x160_3: 8312975297905551863
-      Human enemy shooting 160x160_4: 5090682060526145557
-      Human enemy shooting 160x160_5: 8554618288256469141
+      Untitled-2_0: -5392625257635239999
+      Untitled-2_1: -4548455104902304520
+      Untitled-2_2: -340510569268801026
+      Untitled-2_3: 33363725635070822
+      Untitled-2_4: 2607614108378703750
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

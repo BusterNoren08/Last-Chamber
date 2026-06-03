@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -208,12 +208,12 @@ TextureImporter:
       name: human enemy idle 160x160_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 863
-        width: 141
-        height: 144
+        x: 0
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,12 +230,12 @@ TextureImporter:
       name: human enemy idle 160x160_1
       rect:
         serializedVersion: 2
-        x: 172
-        y: 863
-        width: 141
-        height: 144
+        x: 160
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,12 +252,12 @@ TextureImporter:
       name: human enemy idle 160x160_2
       rect:
         serializedVersion: 2
-        x: 332
-        y: 863
-        width: 141
-        height: 144
+        x: 320
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +274,12 @@ TextureImporter:
       name: human enemy idle 160x160_3
       rect:
         serializedVersion: 2
-        x: 492
-        y: 863
-        width: 141
-        height: 144
+        x: 480
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: human enemy idle 160x160_4
       rect:
         serializedVersion: 2
-        x: 652
-        y: 863
-        width: 141
-        height: 143
+        x: 640
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +318,12 @@ TextureImporter:
       name: human enemy idle 160x160_5
       rect:
         serializedVersion: 2
-        x: 689
-        y: 858
-        width: 7
-        height: 6
+        x: 800
+        y: 864
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: human enemy idle 160x160_6
       rect:
         serializedVersion: 2
-        x: 812
-        y: 863
-        width: 141
-        height: 147
+        x: 0
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: human enemy idle 160x160_7
       rect:
         serializedVersion: 2
-        x: 849
-        y: 858
-        width: 7
-        height: 6
+        x: 160
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: human enemy idle 160x160_8
       rect:
         serializedVersion: 2
-        x: 332
-        y: 703
-        width: 141
-        height: 153
+        x: 320
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: human enemy idle 160x160_9
       rect:
         serializedVersion: 2
-        x: 520
-        y: 843
-        width: 21
-        height: 13
+        x: 480
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: human enemy idle 160x160_10
       rect:
         serializedVersion: 2
-        x: 590
-        y: 841
-        width: 15
-        height: 10
+        x: 640
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +450,12 @@ TextureImporter:
       name: human enemy idle 160x160_11
       rect:
         serializedVersion: 2
-        x: 678
-        y: 843
-        width: 25
-        height: 18
+        x: 800
+        y: 704
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: human enemy idle 160x160_12
       rect:
         serializedVersion: 2
-        x: 746
-        y: 841
-        width: 19
-        height: 14
+        x: 0
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +494,12 @@ TextureImporter:
       name: human enemy idle 160x160_13
       rect:
         serializedVersion: 2
-        x: 759
-        y: 850
-        width: 6
-        height: 6
+        x: 160
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +516,12 @@ TextureImporter:
       name: human enemy idle 160x160_14
       rect:
         serializedVersion: 2
-        x: 838
-        y: 849
-        width: 14
-        height: 12
+        x: 320
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +538,12 @@ TextureImporter:
       name: human enemy idle 160x160_15
       rect:
         serializedVersion: 2
-        x: 852
-        y: 851
-        width: 11
-        height: 9
+        x: 480
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,12 +560,12 @@ TextureImporter:
       name: human enemy idle 160x160_16
       rect:
         serializedVersion: 2
-        x: 906
-        y: 847
-        width: 13
-        height: 8
+        x: 640
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: human enemy idle 160x160_17
       rect:
         serializedVersion: 2
-        x: 919
-        y: 850
-        width: 6
-        height: 6
+        x: 800
+        y: 544
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +604,12 @@ TextureImporter:
       name: human enemy idle 160x160_18
       rect:
         serializedVersion: 2
-        x: 12
-        y: 703
-        width: 141
-        height: 147
+        x: 0
+        y: 384
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: human enemy idle 160x160_19
       rect:
         serializedVersion: 2
-        x: 49
-        y: 698
-        width: 7
-        height: 6
+        x: 160
+        y: 384
+        width: 160
+        height: 160
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,363 +644,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_20
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 703
-        width: 141
-        height: 147
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 274a426340d1d6690800000000000000
-      internalID: -7607392291633453966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_21
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 703
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d6834f2d2525ee460800000000000000
-      internalID: 7272840963929946221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_22
-      rect:
-        serializedVersion: 2
-        x: 652
-        y: 703
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cce8e1beeca393d60800000000000000
-      internalID: 7870386484188974796
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_23
-      rect:
-        serializedVersion: 2
-        x: 812
-        y: 703
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9c5ac8448f9ac070800000000000000
-      internalID: 8127483868049202335
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_24
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 689
-        width: 14
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f49efab8a5623f220800000000000000
-      internalID: 2518398786962712911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_25
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 691
-        width: 11
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9878d1d4867012ce0800000000000000
-      internalID: -1431855061975332983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_26
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 687
-        width: 13
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee4f2983573f605b0800000000000000
-      internalID: -5402363018198453010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_27
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 690
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f680beb07748a890800000000000000
-      internalID: -7446623434295965964
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_28
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 543
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 459b05dd4832cdb50800000000000000
-      internalID: 6619204605883496788
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_29
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 543
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0b468ceb0effd7290800000000000000
-      internalID: -7890869631344679760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_30
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 543
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfa100c9a03ada320800000000000000
-      internalID: 2570890228260674301
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_31
-      rect:
-        serializedVersion: 2
-        x: 492
-        y: 543
-        width: 141
-        height: 143
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d38661b6bc0b881f0800000000000000
-      internalID: -1042388926014789571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_32
-      rect:
-        serializedVersion: 2
-        x: 652
-        y: 543
-        width: 141
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3c1d5f5c4ff88930800000000000000
-      internalID: 4145844160477076541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_33
-      rect:
-        serializedVersion: 2
-        x: 812
-        y: 543
-        width: 141
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0e137a840292cea40800000000000000
-      internalID: 5398735271944991200
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_34
-      rect:
-        serializedVersion: 2
-        x: 12
-        y: 383
-        width: 141
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8345329c0625728d0800000000000000
-      internalID: -2871235661780528072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: human enemy idle 160x160_35
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 383
-        width: 141
-        height: 144
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed6e57d7278fc0c30800000000000000
-      internalID: 4327106512611043038
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a2d933f07634fd146af69ae2557174a5
     internalID: 0
     vertices: []
     indices: 
@@ -1008,7 +656,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":160.0,"y":160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       human enemy idle 160x160_0: 7230194405720244714
       human enemy idle 160x160_1: -2915175371641657515
@@ -1023,23 +673,7 @@ TextureImporter:
       human enemy idle 160x160_18: 8548854289729806700
       human enemy idle 160x160_19: 6191052957004503051
       human enemy idle 160x160_2: -7913195881244239596
-      human enemy idle 160x160_20: -7607392291633453966
-      human enemy idle 160x160_21: 7272840963929946221
-      human enemy idle 160x160_22: 7870386484188974796
-      human enemy idle 160x160_23: 8127483868049202335
-      human enemy idle 160x160_24: 2518398786962712911
-      human enemy idle 160x160_25: -1431855061975332983
-      human enemy idle 160x160_26: -5402363018198453010
-      human enemy idle 160x160_27: -7446623434295965964
-      human enemy idle 160x160_28: 6619204605883496788
-      human enemy idle 160x160_29: -7890869631344679760
       human enemy idle 160x160_3: 968760614939067216
-      human enemy idle 160x160_30: 2570890228260674301
-      human enemy idle 160x160_31: -1042388926014789571
-      human enemy idle 160x160_32: 4145844160477076541
-      human enemy idle 160x160_33: 5398735271944991200
-      human enemy idle 160x160_34: -2871235661780528072
-      human enemy idle 160x160_35: 4327106512611043038
       human enemy idle 160x160_4: 2877984492567356712
       human enemy idle 160x160_5: 3682100273779779879
       human enemy idle 160x160_6: 2521225865771250551

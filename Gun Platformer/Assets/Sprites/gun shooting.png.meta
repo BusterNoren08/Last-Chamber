@@ -1,25 +1,28 @@
 fileFormatVersion: 2
-guid: c0019d9ef9600ce45b45f7d63d565884
+guid: a6e1a41bf8bbc104d8355440c7b58001
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7774596338930453404
-    second: Human enemy shooting 160x160_0
+      213: 7581263091231718214
+    second: gun shooting_0
   - first:
-      213: 4202961027937977060
-    second: Human enemy shooting 160x160_1
+      213: 4264930848305145341
+    second: gun shooting_1
   - first:
-      213: -6587728583922207296
-    second: Human enemy shooting 160x160_2
+      213: -3460860862268734063
+    second: gun shooting_2
   - first:
-      213: 8312975297905551863
-    second: Human enemy shooting 160x160_3
+      213: -6638403393322941992
+    second: gun shooting_3
   - first:
-      213: 5090682060526145557
-    second: Human enemy shooting 160x160_4
+      213: -2522498416515307687
+    second: gun shooting_4
   - first:
-      213: 8554618288256469141
-    second: Human enemy shooting 160x160_5
+      213: 4386456643077004088
+    second: gun shooting_5
+  - first:
+      213: -732599045306514764
+    second: gun shooting_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -90,7 +93,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_0
+      name: gun shooting_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 349
-        width: 147
-        height: 144
+        x: 21
+        y: 191
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4647ff142d51b1490800000000000000
-      internalID: -7774596338930453404
+      spriteID: 64b75ad3d9e063960800000000000000
+      internalID: 7581263091231718214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_1
+      name: gun shooting_1
       rect:
         serializedVersion: 2
-        x: 170
-        y: 349
-        width: 150
-        height: 144
+        x: 117
+        y: 191
+        width: 71
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e2cd0369cae35a30800000000000000
-      internalID: 4202961027937977060
+      spriteID: df565dc8204103b30800000000000000
+      internalID: 4264930848305145341
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_2
+      name: gun shooting_2
       rect:
         serializedVersion: 2
-        x: 330
-        y: 349
-        width: 149
-        height: 144
+        x: 213
+        y: 191
+        width: 81
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0c531a691cfa394a0800000000000000
-      internalID: -6587728583922207296
+      spriteID: 1958b67d16d88ffc0800000000000000
+      internalID: -3460860862268734063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_3
+      name: gun shooting_3
       rect:
         serializedVersion: 2
-        x: 11
-        y: 189
-        width: 141
-        height: 144
+        x: 309
+        y: 191
+        width: 67
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f9e14a4dfe9d5370800000000000000
-      internalID: 8312975297905551863
+      spriteID: 8d10d391947afd3a0800000000000000
+      internalID: -6638403393322941992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_4
+      name: gun shooting_4
       rect:
         serializedVersion: 2
-        x: 171
-        y: 189
-        width: 141
-        height: 144
+        x: 405
+        y: 191
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5105d1acc5cb5a640800000000000000
-      internalID: 5090682060526145557
+      spriteID: 957ae111e094efcd0800000000000000
+      internalID: -2522498416515307687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Human enemy shooting 160x160_5
+      name: gun shooting_5
       rect:
         serializedVersion: 2
-        x: 331
-        y: 189
-        width: 141
-        height: 144
+        x: 21
+        y: 95
+        width: 53
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,8 +243,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5984694420c18b670800000000000000
-      internalID: 8554618288256469141
+      spriteID: 83bd1419313dfdc30800000000000000
+      internalID: 4386456643077004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun shooting_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 95
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b207bdbc0945d5f0800000000000000
+      internalID: -732599045306514764
       vertices: []
       indices: 
       edges: []
@@ -260,12 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Human enemy shooting 160x160_0: -7774596338930453404
-      Human enemy shooting 160x160_1: 4202961027937977060
-      Human enemy shooting 160x160_2: -6587728583922207296
-      Human enemy shooting 160x160_3: 8312975297905551863
-      Human enemy shooting 160x160_4: 5090682060526145557
-      Human enemy shooting 160x160_5: 8554618288256469141
+      gun shooting_0: 7581263091231718214
+      gun shooting_1: 4264930848305145341
+      gun shooting_2: -3460860862268734063
+      gun shooting_3: -6638403393322941992
+      gun shooting_4: -2522498416515307687
+      gun shooting_5: 4386456643077004088
+      gun shooting_6: -732599045306514764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

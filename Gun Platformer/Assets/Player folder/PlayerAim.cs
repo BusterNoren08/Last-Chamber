@@ -1,9 +1,11 @@
+using System;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerAim : MonoBehaviour
 {
-    
+    public TextMeshProUGUI text;
     public GameObject bulletPrefab;      // Prefab of the bullet
     public Transform firePoint;          // Point where bullets are spawned
     public float bulletSpeed = 10f;      // Speed of bullet
@@ -79,7 +81,9 @@ public class PlayerAim : MonoBehaviour
             bulletCounter++;
             if (bulletCounter >= 3)
             {
-                nextFireTimeReload = Time.time + 3f;
+                nextFireTimeReload = Time.time + reloadTime;
+                Invoke("Reload", reloadTime);
+                text.enabled = true;
                 Debug.Log("Reloding");
                 bulletCounter = 0;
             }
@@ -94,6 +98,16 @@ public class PlayerAim : MonoBehaviour
                     ForceMode2D.Force
                 );
             }
+        }
+        GiveMoreAmmo();
+    }
+
+    private void GiveMoreAmmo()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+            {
+            Debug.Log("More ammo!");
+            currentAmmo += 100;
         }
     }
 
@@ -158,11 +172,10 @@ public class PlayerAim : MonoBehaviour
 
         KnockbackRB.AddForce(knockbackDir * knockbackForce, ForceMode2D.Impulse);
     }
-    //void Reload()
-   // {
-        
-       // isReloading = false;
-       // Debug.Log("Reload!");
-   // }
+    void Reload()
+    {
+        text.enabled = false;
+        Debug.Log("Reload!");
+    }
 }
 
